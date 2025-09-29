@@ -171,6 +171,8 @@ python app.py
 - Thread-based parallel execution prevents UI freezing.
 ---
 ### 📸 Screenshots (Examples)
+![Ekran görüntüsü](risk.png)
+
 
 
 
