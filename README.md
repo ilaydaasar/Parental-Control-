@@ -142,14 +142,11 @@ python app.py
 ```
 ---
 ### Usage Workflow
-1. View logs and screenshots. 
-- Track app usage and screen time.
-- Configure time limits.
-- Receive alerts via notifications/email. 
-1.Launch → Login Screen (register or sign in).
-2.Navigate to Dashboard.
-3.System runs in background, monitoring continuously.
-4Risky content gets logged into database + displayed in GUI.
+1. Launch → Login Screen (register or sign in). 
+2. Navigate to Dashboard.
+3. System runs in background, monitoring continuously.
+4. Risky content gets logged into database + displayed in GUI. 
+
 
 # Parent can:
 
