@@ -149,6 +149,7 @@ python app.py
 4Risky content gets logged into database + displayed in GUI.
 
 #### Parent can:
+---
 
 -View logs and screenshots.
 -Track app usage and screen time.
