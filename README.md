@@ -148,13 +148,15 @@ python app.py
 3.System runs in background, monitoring continuously.
 4Risky content gets logged into database + displayed in GUI.
 
-#### Parent can:
----
+# Parent can:
 
--View logs and screenshots.
--Track app usage and screen time.
--Configure time limits.
--Receive alerts via notifications/email.
+
+- View logs and screenshots. 
+- Track app usage and screen time.
+- Configure time limits.
+- Receive alerts via notifications/email. 
+
+
 ---
 ### Model Performance
 
