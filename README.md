@@ -1,7 +1,7 @@
 # Parental-Control
 # 👨‍👩‍👧‍👦 Parental Control System
 
-A **real-time parental control and content filtering system** built with Python, PyQt5, and machine learning models.  
+A **real-time parental control and content filtering system** built with Python, PyQt5, and deep learning models.  
 The system monitors children’s computer usage and automatically detects **weapons, violent scenes, and toxic text content** using deep learning techniques.  
 
 
