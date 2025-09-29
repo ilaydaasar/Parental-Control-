@@ -173,6 +173,8 @@ python app.py
 ### 📸 Screenshots (Examples)
 
 ![Ekran görüntüsü](risk.png)
+---
+![Ekran görüntüsü](limit.png)
 
 
 
