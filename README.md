@@ -142,7 +142,10 @@ python app.py
 ```
 ---
 ### Usage Workflow
-
+1. View logs and screenshots. 
+- Track app usage and screen time.
+- Configure time limits.
+- Receive alerts via notifications/email. 
 1.Launch → Login Screen (register or sign in).
 2.Navigate to Dashboard.
 3.System runs in background, monitoring continuously.
@@ -159,19 +162,16 @@ python app.py
 
 ---
 ### Model Performance
-
--YOLOv8 (Weapon detection): mAP > 85%
--3D CNN (Violence detection): Accuracy ~ 82%
--BERT (Toxic text classification): F1 score ~ 80%
-
-Performance tested on custom datasets with GPU acceleration.
+- YOLOv8 (Weapon detection): mAP > 85%
+- 3D CNN (Violence detection): Accuracy ~ 82%
+- BERT (Toxic text classification): F1 score ~ 80%
+  Performance tested on custom datasets with GPU acceleration. 
 ---
 ### Security & Privacy
-
--All monitoring data is stored locally (no cloud).
--Parents’ email is stored securely in limits.json.
--Only active application windows are analyzed to reduce overhead.
--Thread-based parallel execution prevents UI freezing.
+- All monitoring data is stored locally (no cloud). 
+- Parents’ email is stored securely in limits.json.
+- Only active application windows are analyzed to reduce overhead.
+- Thread-based parallel execution prevents UI freezing.
 ---
 ### 📸 Screenshots (Examples)
 
